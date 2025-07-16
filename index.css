@@ -46,9 +46,9 @@ button {
 }
 
 button:hover {
-  background: #777;
+  background: #d04b4b;
 }
 
 button:active {
-  background: #aaa;
+  background: git#c02626;
 }
